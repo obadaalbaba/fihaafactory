@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="تواصل مع مصنع الفيحاء." />
+    <title>تواصل معنا | الفيحاء</title>
+    <script src="js/lang-init.js"></script>
+    <link rel="stylesheet" href="css/styles.css?v=3" />
+  </head>
+  <body class="inner-page" data-page="contact">
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="index.html">
+          <img class="brand-logo" src="public/logo.png" alt="شعار الفيحاء" data-i18n-alt="brand.logoAlt" onerror="this.classList.add('img-placeholder');" />
+        </a>
+        <div class="header-end">
+          <nav data-i18n-aria="nav.aria">
+            <ul class="site-nav">
+              <li><a href="index.html" data-i18n="nav.home">الرئيسية</a></li>
+              <li><a href="products.html" data-i18n="nav.products">منتجاتنا</a></li>
+              <li><a href="contact.html" data-i18n="nav.contact">تواصل معنا</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="lang-switch" role="group" data-i18n-aria="lang.aria">
+          <button type="button" data-lang="ar" class="is-active" aria-pressed="true" data-i18n="lang.ar">ع</button>
+          <button type="button" data-lang="en" aria-pressed="false" data-i18n="lang.en">En</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <header class="page-banner">
+        <div class="container">
+          <h1 data-i18n="contact.header.title">تواصل معنا</h1>
+          <p data-i18n="contact.header.lead">طلبات وعروض أسعار واستفسارات عامة</p>
+        </div>
+      </header>
+
+      <section class="section container">
+        <div class="contact-grid contact-grid-compact">
+          <div class="contact-card">
+            <h3 data-i18n="contact.phone.title">الهاتف</h3>
+            <p><a class="phone-link phone-link-inline" href="tel:+973944342328" data-i18n="contact.phone.display">+973 9443 42328</a></p>
+          </div>
+          <div class="contact-card">
+            <h3 data-i18n="contact.email.title">البريد الإلكتروني</h3>
+            <p><a class="email-link email-link-inline" href="mailto:info@alfayhaa.com">info@alfayhaa.com</a></p>
+          </div>
+          <div class="contact-card">
+            <h3 data-i18n="contact.hours.title">ساعات العمل</h3>
+            <p data-i18n="contact.hours.weekdays">الأحد – الخميس: 8:00 – 17:00</p>
+            <p data-i18n="contact.hours.weekend">الجمعة – السبت: مغلق</p>
+            <p><small style="color: var(--color-muted)" data-i18n="contact.hours.note">عدّلوا حسب أوقات عملكم.</small></p>
+          </div>
+        </div>
+
+        <div class="location-section">
+          <div class="section-heading">
+            <h2 data-i18n="contact.location.title">الموقع</h2>
+            <span class="accent-line" aria-hidden="true"></span>
+          </div>
+          <div class="location-maps-grid location-maps-grid-page">
+            <figure class="location-map-card">
+              <span class="location-map-label" data-i18n="contact.location.overviewTitle">طريق الوصول</span>
+              <div class="location-map-frame">
+                <img src="public/map-out.png" alt="" data-i18n-alt="contact.location.altOut" />
+              </div>
+              <figcaption data-i18n="contact.location.overviewCaption">
+                طريق الوصول عبر طريق مطار دمشق إلى منطقة الغزلانية (حوالي ٩٫٥ كم).
+              </figcaption>
+            </figure>
+            <figure class="location-map-card">
+              <span class="location-map-label" data-i18n="contact.location.detailTitle">الموقع التفصيلي</span>
+              <div class="location-map-frame">
+                <img src="public/map-in.png" alt="" data-i18n-alt="contact.location.altIn" />
+              </div>
+              <figcaption data-i18n="contact.location.detailCaption">
+                من مسجد علي بن أبي طالب في الغزلانية — دقيقتان (١٫٥ كم) إلى المصنع.
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="public/logo.png" alt="" data-i18n-alt="brand.logoAlt" height="48" />
+          <p data-i18n="footer.tagline">مصنع منتجات خرسانية — أنابيب مسلحة وأطاريف وإنترلوك.</p>
+        </div>
+        <div class="footer-col footer-contact">
+          <h4 data-i18n="footer.contactTitle">تواصل معنا</h4>
+          <p><a class="phone-link phone-link-footer" href="tel:+973944342328" data-i18n="contact.phone.display">+973 9443 42328</a></p>
+          <p><a href="mailto:info@alfayhaa.com">info@alfayhaa.com</a></p>
+        </div>
+        <div class="footer-col">
+          <h4 data-i18n="footer.linksTitle">روابط سريعة</h4>
+          <ul>
+            <li><a href="products.html" data-i18n="nav.products">منتجاتنا</a></li>
+            <li><a href="contact.html" data-i18n="nav.contact">تواصل معنا</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; <span id="year"></span> <span data-i18n="footer.rights">جميع الحقوق محفوظة</span></p>
+      </div>
+    </footer>
+
+    <script src="js/i18n.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
