@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const STORAGE_KEY = "fayhaa-lang";
+  const STORAGE_KEY = "faihaa-lang";
   const DEFAULT_LANG = "ar";
 
   const translations = {
@@ -161,10 +161,10 @@
       "contact.header.title": "تواصل معنا",
       "contact.header.lead": "طلبات وعروض أسعار واستفسارات عامة",
       "contact.phone.title": "الهاتف",
-      "contact.phone.display": "+973 9443 42328",
+      "contact.phone.display": "+963 944 342 328",
       "contact.email.title": "البريد الإلكتروني",
       "contact.hours.title": "ساعات العمل",
-      "contact.hours.weekdays": "السبت – الخميس: 7:00 – 16:00",
+      "contact.hours.weekdays": "السبت – الخميس: 7:00 – 17:00",
       "contact.hours.weekend": "الجمعة: مغلق",
       "contact.location.title": "الموقع",
       "contact.location.overviewTitle": "طريق الوصول",
@@ -177,17 +177,17 @@
         "من مسجد علي بن أبي طالب في الغزلانية — دقيقتان (1.5 كم) إلى المصنع.",
     },
     en: {
-      "meta.home.title": "Fayhaa | Concrete Pipes, Curbstones & Interlock",
+      "meta.home.title": "Faihaa | Concrete Pipes, Curbstones & Interlock",
       "meta.home.description":
-        "Fayhaa — manufacturer of concrete pipes, curbstones, and interlock paving.",
-      "meta.about.title": "About | Fayhaa",
-      "meta.about.description": "About Fayhaa — concrete products manufacturer.",
-      "meta.products.title": "Products | Fayhaa",
+        "Faihaa — manufacturer of concrete pipes, curbstones, and interlock paving.",
+      "meta.about.title": "About | Faihaa",
+      "meta.about.description": "About Faihaa — concrete products manufacturer.",
+      "meta.products.title": "Products | Faihaa",
       "meta.products.description":
-        "Fayhaa products — concrete pipes, curbstones, and interlock paving.",
-      "meta.contact.title": "Contact | Fayhaa",
-      "meta.contact.description": "Contact Fayhaa — phone, address, and hours.",
-      "meta.catalogue.title": "Pipe Size Chart | Fayhaa",
+        "Faihaa products — concrete pipes, curbstones, and interlock paving.",
+      "meta.contact.title": "Contact | Faihaa",
+      "meta.contact.description": "Contact Faihaa — phone, address, and hours.",
+      "meta.catalogue.title": "Pipe Size Chart | Faihaa",
       "meta.catalogue.description":
         "Reinforced concrete pipe size chart — internal diameter, wall thickness, and reinforcement.",
 
@@ -201,7 +201,7 @@
       "lang.ar": "ع",
       "lang.en": "En",
 
-      "brand.logoAlt": "Alfayhaa logo",
+      "brand.logoAlt": "Alfaihaa logo",
 
       "footer.rights": "All rights reserved",
       "footer.phoneAddress": "Phone & address",
@@ -212,14 +212,14 @@
       "footer.linksTitle": "Quick links",
       "footer.address": "City — Saudi Arabia",
 
-      "home.hero.slide1.title": "Alfayhaa Automatic Factory",
+      "home.hero.slide1.title": "Alfaihaa Automatic Factory",
       "home.hero.slide1.sub": "Leaders in reinforced concrete products",
       "home.hero.slide2.title": "Reinforced concrete pipes",
       "home.hero.slide2.sub": "Built for infrastructure durability",
       "home.hero.slide3.title": "Interlock",
       "home.hero.slide3.sub": "Interlock for driveways, sidewalks, and outdoor spaces",
       "home.intro":
-        "At Alfayhaa factory, we produce precast concrete designed for construction and infrastructure — from steel-reinforced pipes to curbstones and interlock — with consistent quality and reliable performance.",
+        "At Alfaihaa factory, we produce precast concrete designed for construction and infrastructure — from steel-reinforced pipes to curbstones and interlock — with consistent quality and reliable performance.",
       "home.contact.title": "Contact us",
       "home.contact.reachTitle": "Get in touch",
       "home.mission.title": "Our goal: leadership in concrete products",
@@ -265,10 +265,10 @@
       "home.curbs.more": "Read more",
       "home.interlock.more": "Read more",
 
-      "about.header.title": "About Fayhaa",
+      "about.header.title": "About Faihaa",
       "about.header.lead": "Your partner for precast concrete products",
       "about.p1":
-        "<strong>Fayhaa</strong> manufactures and supplies concrete products for construction and infrastructure projects. Replace this paragraph with your company history, mission, and what sets you apart in your market.",
+        "<strong>Faihaa</strong> manufactures and supplies concrete products for construction and infrastructure projects. Replace this paragraph with your company history, mission, and what sets you apart in your market.",
       "about.p2":
         "We focus on dependable quality — from steel-reinforced drainage pipes to curbstones and interlock paving — so contractors and builders can rely on consistent materials on site.",
       "about.offer.title": "What we offer",
@@ -279,7 +279,7 @@
       "about.facility.title": "Our facility",
       "about.facility.lead":
         "Add a photo of your plant or yard in <code>public/about-facility.jpg</code> and update the caption below.",
-      "about.facility.alt": "Fayhaa production facility",
+      "about.facility.alt": "Faihaa production facility",
 
       "products.header.title": "Products",
       "products.header.lead": "Concrete pipes, curbstones, and interlock",
@@ -332,7 +332,7 @@
       "contact.header.title": "Contact us",
       "contact.header.lead": "Orders, quotes, and general inquiries",
       "contact.phone.title": "Phone",
-      "contact.phone.display": "+973 9443 42328",
+      "contact.phone.display": "+963 944 342 328",
       "contact.email.title": "Email",
       "contact.hours.title": "Hours",
       "contact.hours.weekdays": "Saturday – Thursday: 7:00 AM – 4:00 PM",
@@ -340,8 +340,8 @@
       "contact.location.title": "Location",
       "contact.location.overviewTitle": "Getting here",
       "contact.location.detailTitle": "Close-up",
-      "contact.location.altOut": "Driving route to Alfayhaa factory",
-      "contact.location.altIn": "Close-up map of Alfayhaa factory in Al Ghuzlaniyah",
+      "contact.location.altOut": "Driving route to Alfaihaa factory",
+      "contact.location.altIn": "Close-up map of Alfaihaa factory in Al Ghuzlaniyah",
       "contact.location.overviewCaption":
         "Via Damascus Airport Motorway to Al Ghuzlaniyah (~9.5 km).",
       "contact.location.detailCaption":
@@ -433,7 +433,7 @@
     });
   }
 
-  window.FayhaaI18n = {
+  window.FaihaaI18n = {
     getLang: getStoredLang,
     setLanguage,
     t: (key) => t(getStoredLang(), key),

@@ -1,6 +1,7 @@
 Add your image files here:
 
-  logo.png              — company logo (header on every page)
+  logo-wide.png         — wide logo with name (header on desktop)
+  logo-green.png        — square mark (header on mobile, footer, favicon)
   hero.jpg              — optional wide banner on the home page
   about-facility.jpg    — optional photo on the About page
   map-out.png           — overview / driving route to the factory
