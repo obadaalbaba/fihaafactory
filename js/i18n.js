@@ -10,7 +10,7 @@
       "meta.home.description":
         "فيحاء — تصنيع أنابيب خرسانية وأطاريف وإنترلوك للبناء والبنية التحتية.",
       "meta.about.title": "من نحن | فيحاء",
-      "meta.about.description": "تعرف على فيحاء — مصنع منتجات خرسانية.",
+      "meta.about.description": "تعرف على فيحاء — معمل منتجات خرسانية.",
       "meta.products.title": "المنتجات | فيحاء",
       "meta.products.description":
         "منتجات فيحاء — أنابيب خرسانية وأطاريف وإنترلوك.",
@@ -36,19 +36,19 @@
       "footer.phoneAddress": "الهاتف والعنوان",
       "footer.backHome": "العودة للرئيسية",
       "footer.tagline":
-        "مصنع منتجات خرسانية — أنابيب مسلحة وأطاريف وإنترلوك لخدمة البناء الحديث.",
+        "معمل منتجات خرسانية — أنابيب مسلحة وأطاريف وإنترلوك لخدمة البناء الحديث.",
       "footer.contactTitle": "تواصل معنا",
       "footer.linksTitle": "روابط سريعة",
       "footer.address": "المدينة — المملكة العربية السعودية",
 
-      "home.hero.slide1.title": "مصنع الفيحاء الآلي",
+      "home.hero.slide1.title": "معمل الفيحاء الآلي",
       "home.hero.slide1.sub": "رواد في منتجات الخرسانة المسلحة",
       "home.hero.slide2.title": "أنابيب خرسانية مسلحة",
       "home.hero.slide2.sub": "متانة عالية للبنية التحتية",
       "home.hero.slide3.title": "إنترلوك",
       "home.hero.slide3.sub": "إنترلوك للمداخل وأرصفة المشاة والمساحات الخارجية",
       "home.intro":
-        "في مصنع الفيحاء، ننتج منتجات خرسانية جاهزة مصممة لتلبية احتياجات مشاريع البناء والبنية التحتية — من الأنابيب الخرسانية المسلحة إلى الأطاريف والإنترلوك — بجودة ثابتة وأداء موثوق.",
+        "في معمل الفيحاء، ننتج منتجات خرسانية جاهزة مصممة لتلبية احتياجات مشاريع البناء والبنية التحتية — من الأنابيب الخرسانية المسلحة إلى الأطاريف والإنترلوك — بجودة ثابتة وأداء موثوق.",
       "home.contact.title": "تواصل معنا",
       "home.contact.reachTitle": "اتصل بنا",
       "home.mission.title": "هدفنا: الريادة في المنتجات الخرسانية",
@@ -107,7 +107,7 @@
       "about.offer.cta": "تفاصيل المنتجات الكاملة",
       "about.facility.title": "منشأتنا",
       "about.facility.lead":
-        "أضفوا صورة المصنع في <code>public/about-facility.jpg</code> وحدّثوا الوصف.",
+        "أضفوا صورة المعمل في <code>public/about-facility.jpg</code> وحدّثوا الوصف.",
       "about.facility.alt": "منشأة إنتاج فيحاء",
 
       "products.header.title": "المنتجات",
@@ -169,12 +169,12 @@
       "contact.location.title": "الموقع",
       "contact.location.overviewTitle": "طريق الوصول",
       "contact.location.detailTitle": "الموقع التفصيلي",
-      "contact.location.altOut": "خريطة طريق الوصول إلى مصنع الفيحاء",
-      "contact.location.altIn": "خريطة تفصيلية لموقع مصنع الفيحاء في الغزلانية",
+      "contact.location.altOut": "خريطة طريق الوصول إلى معمل الفيحاء",
+      "contact.location.altIn": "خريطة تفصيلية لموقع معمل الفيحاء في الغزلانية",
       "contact.location.overviewCaption":
         "طريق الوصول عبر طريق مطار دمشق إلى منطقة الغزلانية (حوالي 9.5 كم).",
       "contact.location.detailCaption":
-        "من مسجد علي بن أبي طالب في الغزلانية — دقيقتان (1.5 كم) إلى المصنع.",
+        "من مسجد علي بن أبي طالب في الغزلانية — دقيقتان (1.5 كم) إلى المعمل.",
     },
     en: {
       "meta.home.title": "Faihaa | Concrete Pipes, Curbstones & Interlock",

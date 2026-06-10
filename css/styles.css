@@ -70,12 +70,12 @@ a:hover {
   position: relative;
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0.65rem 1.5rem;
+  padding: 0.75rem 1.5rem;
   padding-right: 5.5rem;
   display: flex;
   align-items: center;
   gap: 1.5rem;
-  min-height: 4.5rem;
+  min-height: 4.75rem;
 }
 
 .brand {
@@ -90,15 +90,15 @@ a:hover {
 }
 
 .brand-logo-wide {
-  height: 52px;
+  height: clamp(52px, 5vw, 60px);
   width: auto;
-  max-width: min(360px, 58vw);
+  max-width: min(400px, 62vw);
 }
 
 .brand-logo-mark {
   display: none;
-  height: 48px;
-  width: 48px;
+  height: clamp(48px, 12vw, 54px);
+  width: clamp(48px, 12vw, 54px);
 }
 
 .header-end {
